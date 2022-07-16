@@ -1,0 +1,5 @@
+﻿  FntasticTest1.cpp
+C:\Users\Dimander\source\repos\FntasticTest1\FntasticTest1\FntasticTest1.cpp(13,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Dimander\source\repos\FntasticTest1\FntasticTest1\FntasticTest1.cpp(20,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Dimander\source\repos\FntasticTest1\FntasticTest1\FntasticTest1.cpp(21,23): warning C4018: <: несоответствие типов со знаком и без знака
+  FntasticTest1.vcxproj -> C:\Users\Dimander\source\repos\FntasticTest1\Debug\FntasticTest1.exe
